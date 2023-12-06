@@ -1,0 +1,41 @@
+name: target_project
+description:
+publish_to:
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  mobx: ^2.2.1
+  flutter_mobx: ^2.2.0
+  material: ^1.0.0+2
+  url_launcher: ^6.1.11
+  webview_flutter: ^2.0.15
+  html: ^0.15.4
+  js: ^0.6.7
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.1
+  mobx_codegen: ^2.4.0
+  build_runner: ^2.4.7
+
+
+flutter:
+
+
+  uses-material-design: true
+
