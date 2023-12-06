@@ -1,6 +1,6 @@
 <h1 align="center">Target_project</h1>
 
-<p align="center">Projeto desenvolvimento em flutter e dart com a utilização de mobx</p>
+<p align="center">Projeto desenvolvido em flutter e dart com a utilização de mobx</p>
 
 
 <h1 align="center">
